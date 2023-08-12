@@ -1,0 +1,11 @@
+identifier: lale8fk6m5td24r9
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: blog-sample
+homeFolder: D:\side-projects\blog-sample
+distFolder: dist/blog-sample
+outDir: D:\side-projects\blog-sample\dist\static
+handle404: ''
+allowErrorCollect: true
